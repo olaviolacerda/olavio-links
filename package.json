@@ -1,0 +1,23 @@
+{
+  "name": "olavio-links",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/olaviolacerda/pen/BaJXvgY](https://codepen.io/olaviolacerda/pen/BaJXvgY).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaviolacerda/olavio-links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaviolacerda/olavio-links/issues"
+  },
+  "homepage": "https://github.com/olaviolacerda/olavio-links#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "firebase": "^9.6.11"
+  }
+}
